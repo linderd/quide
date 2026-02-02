@@ -10,7 +10,7 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <!-- needed for macOS App -->
         <UseAppHost>true</UseAppHost>
-        <FileVersion>2.4.2</FileVersion>
+        <FileVersion>2.5.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
@@ -127,7 +127,7 @@
     <!-- Define things for dotnet-bundle for macOS-App -->
     <PropertyGroup>
         <CFBundleName>QuIDE 2</CFBundleName>
-        <CFBundleShortVersionString>2.3-dev</CFBundleShortVersionString>
+        <CFBundleShortVersionString>2.5</CFBundleShortVersionString>
         <NSPrincipalClass>NSApplication</NSPrincipalClass>
         <CFBundlePackageType>AAPL</CFBundlePackageType>
         <NSRequiresAquaSystemAppearance>false</NSRequiresAquaSystemAppearance>
